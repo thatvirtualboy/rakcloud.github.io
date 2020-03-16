@@ -1,3 +1,3 @@
 ---
-layout: company
+layout: companies
 ---
