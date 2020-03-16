@@ -1,7 +1,8 @@
 # Site settings
 title: Technology Resources Worldwide
 email: joe@technologyresourcesworlwide.com
-description: > Doing business since 1998, TRW is aligned with Management Recruiters International (the world’s largest recruiting organization). We have access to more than 4,000 recruiters worldwide. The key to our continuing success is based upon our competitive advantage of a large referral base, specialization, and the leveraging of technology in our own industry.# this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
+Doing business since 1998, TRW is aligned with Management Recruiters International (the world’s largest recruiting organization). We have access to more than 4,000 recruiters worldwide. The key to our continuing success is based upon our competitive advantage of a large referral base, specialization, and the leveraging of technology in our own industry.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rakcloud.github.io" # the base hostname & protocol for your site
 
