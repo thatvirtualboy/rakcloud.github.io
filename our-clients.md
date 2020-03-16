@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-{% include head.html %}
-
-<body id="page-top">
-  {% include nav.html %}
-  {% include header.html %}
-  {% include contact.html %}
-  {% include footer.html %}
-  {% include scripts.html %}
-</body>
-
-</html>
+---
+layout: companies
+---
