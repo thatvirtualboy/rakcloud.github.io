@@ -1,4 +1,4 @@
-#### If you are a company in the process of staffing up your organization, please know that...
+### If you are a company in the process of staffing up your organization, please know that...
 
 **TRW** accepts search assignments for Sr. Management Executives, Sales Professionals, Customer Service Managers, IT Professionals and Operations Management in the Business Process Outsourcing and Technology marketplaces.
 
@@ -26,7 +26,7 @@ Hire good attitudes, not just good skills. Hire people who want responsibility a
 
 If we’re on the same page here, let us partner with you to find and attract the best and the brightest. Frankly, we believe that we do what we do best better than anyone else. All we ask is that you let us prove it to you.
 
-#### If you are a candidate looking for a quality company to work for, please know that...
+### If you are a candidate looking for a quality company to work for, please know that...
 
 **TRW** only works with employers of choice. We have yet to place anyone into a company we would not consider going to ourselves. Some companies we have chosen not to work for because we have not been convinced they are quality environments for employees. We are in this business for the long haul. The last thing we want to have happen is to place candidate in a unsuitable company and then have you call us three months later and ask, “What were you thinking?”
 
