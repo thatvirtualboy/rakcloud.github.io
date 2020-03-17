@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 > April 27, 2005
 
 # LETTER OF RECOMMENDATION
