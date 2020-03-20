@@ -100,9 +100,9 @@ aside {
                 > a,
                 > a:focus {
                     color: $theme-primary !important;
-                    background-color: transparent;
+                    background-color: transparent !important;
                     &:hover {
-                        background-color: transparent;
+                        background-color: transparent !important;
                     }
                 }
             }
@@ -278,6 +278,15 @@ header {
     }
 }
 
+
+.carousel-control.left {
+    background-image: none !important;
+  }
+  .carousel-control.right {
+    background-image: none !important;
+  }
+
+
 .call-to-action {
     h2 {
         margin: 0 auto 20px;
@@ -348,4 +357,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
